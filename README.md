@@ -13,4 +13,3 @@ Not meant for browsing. This repo exists so a daily scheduled cloud agent has pe
   - `sunday_jumeirah_marina_jbr.json`
 
 Human-facing output is a Telegram message, not this repo. See the AyoubOS vault note `03 Projects/Job Search - IT Support Dubai.md` for the full plan and schedule.
-test push access
